@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoHa", "CoHa\CoHa.csproj", "{EDCCD314-9464-43C4-9904-B05DF28B171F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VANSON_setup", "..\VANSON_XNT\VANSON_setup\VANSON_setup.vdproj", "{2CFF1AEF-B497-4B1B-90E7-494887238859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDCCD314-9464-43C4-9904-B05DF28B171F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCCD314-9464-43C4-9904-B05DF28B171F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCCD314-9464-43C4-9904-B05DF28B171F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCCD314-9464-43C4-9904-B05DF28B171F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFF1AEF-B497-4B1B-90E7-494887238859}.Debug|Any CPU.ActiveCfg = Debug
+		{2CFF1AEF-B497-4B1B-90E7-494887238859}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3890687-DBA6-48A7-8749-6D39FBB10CA7}
+	EndGlobalSection
+EndGlobal

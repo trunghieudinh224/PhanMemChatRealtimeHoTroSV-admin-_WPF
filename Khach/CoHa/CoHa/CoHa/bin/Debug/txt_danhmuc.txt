@@ -1,0 +1,70 @@
+Bản lề SH ABC cong ít (Bật B)
+Bản lề SH ABC cong nhiều (Bật C)
+Bản lề SH ABC thẳng (Bật A)
+Bật hơi điều chỉnh A ( F06 )
+Bật hơi điều chỉnh B ( F06 )
+Bật hơi điều chỉnh C ( F06 )
+Bật hơi B ( F05 )
+BI PHOT
+KHOA XE DAP
+Bơm màu -20 binh CT xi
+Bơm màu ABC-30 (ĐỎ)
+BƠM CÁN ĐỎ 40 PUMP
+Bơm Sừng ABC-40
+Bơm màu 60 PUMP
+Cổ phốt 24
+Keo vá 24
+Keo vá 42
+Keo vá 48
+tuýp vá 720
+Khóa móc Xiaoboshi 103-30 màu
+Khóa móc  Evergood 103-30
+Khóa tủ Xiaoboshi 3 ngăn
+LIP 16 - 100 ( HỘP )
+LIP 18 - 100 ( HỘP )
+Líp 20
+LIP 16 - 150
+LIP 18 - 150
+LIP 5 TẦNG - 50
+LIP 6 TẦNG -50
+LIP 6 TẦNG -50 ( HỘP )
+May ơ trước
+Pe dan Den
+Pe dan Xám
+Trục giữa ZK (ốc liền- răng ngoài)
+Trục giữa ZK (ốc rời- răng ngoài)
+Trượt bi Hammerd 25-12 - 12"
+Trượt bi Hammerd 25-14 - 16"
+Trượt bi Hammerd 25-14 - 18"
+Trượt bi VV 42-10
+Trượt bi VV 42-12
+Trượt bi VV 42-14
+Trượt bi VV 42-20
+Trượt bi XM 12" 36-12
+Trượt bi XM 14" 36-14
+Trượt bi XM 16" 36-16
+Bơm màu bình 20 viva(mã SZ-040)
+Bơm màu 50 viva(mã SZ-010)
+Bơm màu 50 LUTA
+Bơm ngắn ( mả SZ-013)
+Bơm đen 50 viva( mã SZ-019)
+Súng bắn đinh F30-10
+Súng bắn đinh J1013-10
+Súng bắn đinh J1013-20
+Súng đỏ cao cấp
+súng vàng L2
+Súng xanh 1
+Súng xanh 2
+Trượt 42-10
+T8
+T10
+T13
+T14
+XIT KHÔ ĐL
+XIT KHÔ MỚI
+KE GÓC 2 LY - CON
+Van 2 chiều
+PHUN SƠN S710-25
+PHUN SƠN F75
+PHUN SƠN H83
+PHUN SƠN H85

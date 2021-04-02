@@ -1,0 +1,127 @@
+Bật hơi điều chỉnh A ( F06 )\
+Bản lề SH ABC cong ít (Bật B)\
+Bản lề SH ABC thẳng (Bật A) trắng\KBLSHABC-607A
+Bản lề SH ABC cong ít (Bật B) đỏ\KBLSHABC-607B
+Bản lề SH ABC cong nhiều (Bật C) vàng\KBLSHABC-607C
+Bật hơi cố định SH ABC-M05A ( thẳng loại nhẹ ) dây trắng\KBLSHABC-M05A
+Bật hơi cố định SH ABC-M05B ( cong ít loại nhẹ ) - dây xanh\KBLSHABC-M05B
+Bật hơi cố định SH ABC-M05C ( cong nhiều loại nhẹ ) - dây vàng\KBLSHABC-M05C
+Khóa móc Xiaoboshi 103-30 màu\KKMK103-30
+Khóa 103-30 EVERGOLD\KKMEVGD103-30
+khóa 138-22c xiboshi\KKTXBS138-22C
+Khóa 103-20 evanggood chìa sắt\KKMEVG103-20
+Khóa 103-20 evanggood nhựa\KKMEVG103-20BN
+Trượt bi Hammerd 25-12 \KTBHM25-12
+Trượt bi Hammerd 25-14 \KTBHM25-14
+Trượt bi Hammerd 25-16 \KTBHM25-16
+Trượt bi Hammerd 25-12 (ĐEN)\KTBHMD25-12
+Trượt bi Hammerd 25-14 (ĐEN)\KTBHMD25-14
+Trượt bi Hammerd 25-18 \KTBHM25-18
+Trượt SH 35 -10 TRẮNG ( 240mm ) \KTBSHABC35-10
+Trượt SH 35 -12 TRẮNG ( 290mm ) \KTBSHABC35-12
+Trượt SH 35 -14 TRẮNG ( 340mm ) \KTBSHABC35-14
+Trượt SH 35 -16 TRẮNG ( 390mm ) \KTBSHABC35-16
+Trượt SH 35 -18 TRẮNG ( 440mm ) \KTBSHABC35-18
+Trượt bi shabc 46-12 ( 300mm ) dây vàng\KTBSHABC46-12
+Trượt bi shabc 46-14 ( 350mm ) \KTBSHABC46-14
+Trượt bi shabc 46-16 ( 400mm ) \KTBSHABC46-16
+Trượt bi shabc 46-18 ( 450mm ) \KTBSHABC46-18
+Trượt bi shabc 46-20 ( 500mm ) \KTBSHABC46-20
+Trượt bi XM  36-12\KTBXM36-12
+Trượt bi XM  36-14\KTBXM36-14
+Trượt bi XM  36-16\KTBXM36-16
+Trượt bánh xe SH ABC 14 ( 350mm ) dây trắng\KTBXSHABC-14
+Trượt bánh xe SH ABC 16 ( 400mm ) dây trắng\KTBXSHABC-16
+Trượt âm 3 tầng 18"(450mm)\
+Trượt âm 3 tầng 20"(500mm)\
+Bi phốt 5/32-M(xanh)\XBP-5/32
+Bi sau 1/4 thùng ( NHỰA ) CŨ\XBS-1/4
+Bi sau 1/4 thùng ( GIẤY )\XBS-1/4
+Bi trước 3/16 12/8/19\XBT-3/16
+Cổ phốt 24\XCP
+Đùi 32-165 BÓNG ( MỚI ) 30 bộ\XD32MB32TX165
+Keo vá 24\XVL24
+Keo vá 42\XVOT-42
+Khóa xe đạp\XKCC
+Líp 16 - 100 hộp\XL16-100
+Líp 18 - 100 hộp\XL18-100
+Líp 20\XL20
+Líp 16 - 150\XL16-150
+May ơ sau BEO-New\XMOSB-50
+May ơ sau Gầy\XMOSG-50
+May ơ trước\XMOT-100
+Pe dan Den\XPDD
+Pe dan xám\XPDX
+Red Star-500g(25kg)-Xích A nặng\XXA-50
+Trục giữa ZK (ốc liền- răng trong )\XTGOL-
+Trục giữa ZK (ốc rời- răng ngoài)\XTGOR-ZK
+Tuýp vá 720\XTV720
+Củ đê\XCD-K103
+BƠM PUMP PHI 35\XBMTP35-50
+BƠM PUMP NOVA PHI 35 25 cây ( CÓ BAO )\XBKBP35-25
+BƠM PUMP NOVO PHI 35 bình ( CÓ BAO )\XBCBP35-20
+\
+Bơm 2 ống có đồng hồ\
+DÂY BƠM HƠI 500 chiếc\X-OBH
+BƠM BÌNH INOX 10 chiếc\XBDCBXI35
+BƠM MÀU NOVO 25 chiếc\XBKBP35-25
+BƠM BÌNH NOVO 20 chiếc\XBCBP35-20
+BƠM BÌNH NOVO 25 chiếc\XBCBP35-25
+BƠM ĐEN DÀI 20 chiếc\XBDDP35-20
+BƠM NGẮN NOVO PHI 30 ( 50 chiếc/T)\XBNP35-25
+TAY BƠM - 200\XTB
+NẮP ĐẬY TRANG TRÍ - 400\XNDTTB
+Đầu bơm loại tốt (1000 cái/bao)\
+Mũ trắng của đầu bơm ( 1000 cái/bao )\
+Bơm sắt mạ bóng ( mẫu )\XBSMBP35-20
+Bật hơi điều chỉnh B ( F06 )\
+Bật hơi điều chỉnh C ( F06 )\
+Bật hơi B ( F05 )\
+BI PHOT\
+KHOA XE DAP\
+Bơm màu -20 binh CT xi\
+Bơm màu ABC-30 (ĐỎ)\
+BƠM CÁN ĐỎ 40 PUMP\
+Keo vá 48\
+Khóa móc  Evergood 103-30\
+Khóa tủ Xiaoboshi 3 ngăn\
+LIP 16 - 150\
+LIP 18 - 150\
+LIP 6 TẦNG -50\
+LIP 6 TẦNG -50 ( HỘP )\
+Trục giữa ZK (ốc liền- răng ngoài)\
+Trượt bi Hammerd 25-12 - 12"\
+Trượt bi Hammerd 25-14 - 16"\
+Trượt bi Hammerd 25-14 - 18"\
+Trượt bi VV 42-10\
+Trượt bi VV 42-12\
+Trượt bi VV 42-14\
+Trượt bi VV 42-20\
+Trượt bi XM 12" 36-12\
+Trượt bi XM 14" 36-14\
+Trượt bi XM 16" 36-16\
+Bơm màu bình 20 viva(mã SZ-040)\
+Bơm màu 50 viva(mã SZ-010)\
+Bơm màu 50 LUTA\
+Bơm ngắn ( mả SZ-013)\
+Bơm đen 50 viva( mã SZ-019)\
+Súng bắn đinh F30-10\
+Súng bắn đinh J1013-10\
+Súng bắn đinh J1013-20\
+Súng đỏ cao cấp\
+súng vàng L2\
+Súng xanh 1\
+Súng xanh 2\
+Trượt 42-10\
+T8\
+T10\
+T13\
+T14\
+XIT KHÔ ĐL\
+XIT KHÔ MỚI\
+KE GÓC 2 LY - CON\
+Van 2 chiều\
+PHUN SƠN S710-25\
+PHUN SƠN F75\
+PHUN SƠN H83\
+PHUN SƠN H85\
